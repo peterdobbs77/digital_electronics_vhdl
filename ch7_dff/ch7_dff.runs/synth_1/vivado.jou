@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Vivado v2015.2 (64-bit)
+# SW Build 1266856 on Fri Jun 26 16:35:25 MDT 2015
+# IP Build 1264090 on Wed Jun 24 14:22:01 MDT 2015
+# Start of session at: Mon Apr 04 17:07:17 2016
+# Process ID: 2972
+# Log file: C:/Users/Peter/Documents/15_16Sophomore/EECE2030/ch7_dff/ch7_dff.runs/synth_1/top_ch7_dff.vds
+# Journal file: C:/Users/Peter/Documents/15_16Sophomore/EECE2030/ch7_dff/ch7_dff.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source top_ch7_dff.tcl -notrace

@@ -1,0 +1,22 @@
+Vivado Simulator 2015.2
+Copyright 1986-1999, 2001-2015 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2015.2/bin/unwrapped/win64.o/xelab.exe -wto d0fa9c4138904a3cba804bb8c4731a0f --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot tb_top_designProject2_behav xil_defaultlib.tb_top_designProject2 -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling package unisim.vcomponents
+Compiling architecture ibuf_v of entity unisim.IBUF [\IBUF("DONT_CARE","0",true,"AUTO...]
+Compiling architecture ibufg_v of entity unisim.IBUFG [\IBUFG("DONT_CARE","0",true,"DEF...]
+Compiling architecture behavioral of entity xil_defaultlib.clocks [clocks_default]
+Compiling architecture behavioral of entity xil_defaultlib.dff [dff_default]
+Compiling architecture behavioral of entity xil_defaultlib.top_designProject2 [top_designproject2_default]
+Compiling architecture behavioral of entity xil_defaultlib.tb_top_designproject2
+Waiting for 2 sub-compilation(s) to finish...
+Built simulation snapshot tb_top_designProject2_behav

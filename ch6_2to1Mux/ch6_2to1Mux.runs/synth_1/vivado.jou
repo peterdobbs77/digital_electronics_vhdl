@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Vivado v2015.2 (64-bit)
+# SW Build 1266856 on Fri Jun 26 16:35:25 MDT 2015
+# IP Build 1264090 on Wed Jun 24 14:22:01 MDT 2015
+# Start of session at: Fri Mar 11 18:49:51 2016
+# Process ID: 3724
+# Log file: C:/Users/Peter/Documents/15_16Sophomore/EECE2030/ch6_2to1Mux/ch6_2to1Mux.runs/synth_1/top_ch6_2to1Mux.vds
+# Journal file: C:/Users/Peter/Documents/15_16Sophomore/EECE2030/ch6_2to1Mux/ch6_2to1Mux.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source top_ch6_2to1Mux.tcl -notrace

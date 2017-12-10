@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../4bitSubtractor.srcs/sources_1/new/fullSubtractor.vhd"
+vhdl xil_defaultlib  "../../../4bitSubtractor.srcs/sources_1/new/top_4bitSubtractor.vhd"
+vhdl xil_defaultlib  "../../../4bitSubtractor.srcs/sim_1/new/tb_top_4bitSubtractor.vhd"
+
+# Do not sort compile order
+nosort
